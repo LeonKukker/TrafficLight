@@ -1,0 +1,22 @@
+.container{
+    justify-content:center;
+    flex-direction: column;
+    border:1px black solid;
+    height: 50%;
+    width:15%;
+}
+
+
+
+.circle{
+    height:60px;
+    width:60px;
+    padding:20px;
+    border-radius:100%;
+    margin:100px;
+    border:1px solid black;
+}
+body{
+    display:flex;
+    justify-content: center;
+}
